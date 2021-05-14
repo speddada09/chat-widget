@@ -124,7 +124,7 @@
       <title><![CDATA[Job Test]]></title>
       <date><![CDATA[Wed, 27 Feb 2019 18:03:01 GMT]]></date>
       <referencenumber><![CDATA[66666-NEW4]]></referencenumber>
-      <url><![CDATA[https://brazenhq.github.io/chat-widget/brazen/external-page.html?source=NEW-4]]></url>
+      <url><![CDATA[https://brazenhq.github.io/chat-widget/brazen/external-page.html?source=NEW4]]></url>
       <company><![CDATA[Zombocom]]></company>
       <city><![CDATA[Zombo City]]></city>
       <state><![CDATA[MD]]></state>
@@ -146,11 +146,11 @@
       </recruiterEmails>
    </job>
   
-         <job>
+      <job>
       <title><![CDATA[Job Booth Test]]></title>
       <date><![CDATA[Wed, 27 Feb 2019 18:03:01 GMT]]></date>
-      <referencenumber><![CDATA[66666-NEW321]]></referencenumber>
-      <url><![CDATA[https://brazenhq.github.io/chat-widget/brazen/external-page.html?source=NEW-4]]></url>
+      <referencenumber><![CDATA[66666-NEW5]]></referencenumber>
+      <url><![CDATA[https://sanfordcareers.com/8F29D7D7DC0A41F5A9F938C7912D51934514]]></url>
       <company><![CDATA[Zombocom]]></company>
       <city><![CDATA[Zombo City]]></city>
       <state><![CDATA[MD]]></state>
@@ -168,7 +168,7 @@
       <category><![CDATA[Appreciator]]></category>
       <experience><![CDATA[None]]></experience>
       <recruiterEmails>
-         <recruiterEmail><![CDATA[kevin.caniano+user@brazen.com]]></recruiterEmail>
+         <recruiterEmail><![CDATA[sowmya+recruiter@brazen.com]]></recruiterEmail>
       </recruiterEmails>
    </job>
 </source>
